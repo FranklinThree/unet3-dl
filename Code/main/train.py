@@ -119,6 +119,7 @@ def train_net(param: ThisTrainParam):
     loss = 0
 
     epoch = done_epoch
+    logging.info("已完成的epoch : %d", epoch)
     # 训练epochs次
     while epoch < param.epochs:
 
