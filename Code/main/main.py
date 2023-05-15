@@ -15,6 +15,6 @@ if __name__ == '__main__':
                                  net=models2.unet_model.UNet,
                                  # net=models.UNet_3Plus.UNet_3Plus,
                                  criterion=torch.nn.BCEWithLogitsLoss(),
-                                 from_model_path=config.getFullModelPath(10018)
+                                 from_model_path=config.getFullModelPath(10026)
                                  )
     train.train_net_C(param)

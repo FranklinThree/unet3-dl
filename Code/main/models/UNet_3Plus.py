@@ -2,8 +2,8 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from Code.main.models.layers import unetConv2
-from Code.main.models.init_weights import init_weights
+from .layers import unetConv2
+from .init_weights import init_weights
 import numpy as np
 
 '''

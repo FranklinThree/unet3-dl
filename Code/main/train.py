@@ -2,7 +2,7 @@ import os
 import time
 from threading import Thread
 import subprocess
-
+import shutil
 import yaml
 from torch import optim, nn
 import torch
@@ -13,6 +13,7 @@ import models.UNet_3Plus as M
 import logging
 from config import yml_config
 from Brain_MR_dataset import collate_fn
+
 
 # is_ok = False
 class TrainParam:
@@ -41,9 +42,9 @@ class ThisTrainParam(TrainParam):
                  net=M.UNet_3Plus,
                  criterion=nn.BCELoss(),
                  accumulation_steps=1,
-                 from_model_path: str = None):
+                 from_model_path: str = None,
+                 force_epoch=0):
         super().__init__(epochs, batch_size, lr, net, criterion)
-
 
         if deep_supervision:
             if class_guided_module:
@@ -55,12 +56,12 @@ class ThisTrainParam(TrainParam):
         # torch2.0.0加入的新特性
         # self.model = torch.compile(model, mode="default")
 
-
         device_ = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.device = torch.device(device_)
         self.accumulation_steps = accumulation_steps
         self.from_model_path = from_model_path
         # self.lr = self.lr * (accumulation_steps/2)
+        self.force_epoch = force_epoch
 
 
 # def train_net(net, device, epochs=40, batch_size=10, lr=0.00001, model_save_path='uname_model.pth'):
@@ -77,22 +78,30 @@ def train_net(param: ThisTrainParam):
 
     best_loss = float('inf')
     done_epoch = 0
-
+    state = None
+    isCon = param.from_model_path is not None
     # 如果是继续训练模式，则读取模型
-    if param.from_model_path is not None:
+    if isCon:
         logging.warning('当前处于继续训练模式，该模式存在不可预期的危险，请注意检查训练效果！')
         logging.warning("指定原模型：%s", param.from_model_path)
         state = torch.load(param.from_model_path, map_location=param.device)
         model.load_state_dict(state['model'])
         model.to(param.device)
-        optimizer = optim.RMSprop(model.parameters(), lr=param.lr, weight_decay=1e-8, momentum=0.9)
-        optimizer.load_state_dict(state['optimizer'])
-        # param = state['param']
-        done_epoch = state['epoch']
-        best_loss = state['best_loss']
+
     else:
         model.to(param.device)
 
+    optimizer = optim.RMSprop(model.parameters(), lr=param.lr, weight_decay=1e-8, momentum=0.9)
+
+    if isCon:
+        optimizer.load_state_dict(state['optimizer'])
+
+        # param = state['param']
+        done_epoch = state['epoch']
+        best_loss = state['best_loss']
+
+    if param.force_epoch > done_epoch:
+        done_epoch = param.force_epoch
     logging.info("训练基本参数：batch_size = %d, accumulation_steps = %d", param.batch_size, param.accumulation_steps)
     # 读取训练集
     with open(r'train_dataset', 'rb') as trds:
@@ -103,7 +112,6 @@ def train_net(param: ThisTrainParam):
                                                pin_memory=True,
                                                collate_fn=collate_fn,
                                                shuffle=True)
-
 
     # 定义Loss算法
     criterion = param.criterion
@@ -129,8 +137,8 @@ def train_net(param: ThisTrainParam):
         optimizer.zero_grad()
         # 按照batch_size开始训练
         for batch in train_loader:
-            images,labels = batch
-        # for images, labels in train_loader:
+            images, labels = batch
+            # for images, labels in train_loader:
 
             # 将数据拷贝到device中
             images = torch.stack(images) \
@@ -157,13 +165,6 @@ def train_net(param: ThisTrainParam):
             # 保存loss值最小的网络参数
             if loss < best_loss:
                 best_loss = loss
-                # torch.save({
-                #     'epoch': epoch + 1,
-                #     'model': model.state_dict(),
-                #     'best_loss' : best_loss,
-                #     'optimizer' : optimizer.state_dict(),
-                #     'param' : param
-                # }, os.path.join(yml_config["train"]["modelSavePath"], param.model_save_path))
 
             # 损失标准化
             loss = loss / param.accumulation_steps
@@ -185,26 +186,29 @@ def train_net(param: ThisTrainParam):
         logging.info('Loss_ave/train/cost:%f/%d/%.2fs', loss_ave_p_e / loss_ave_count, epoch + 1, t_end - t_start)
         print(f'Loss_ave/train/cost:{loss_ave_p_e / loss_ave_count}/{epoch + 1}/{t_end - t_start}s')
 
+        mid_path = os.path.join(yml_config["train"]["modelSavePath"], 'latest.pth')
+        target_path = os.path.join(yml_config["train"]["modelSavePath"], param.model_save_path)
+
+
+
         torch.save({
             'epoch': epoch + 1,
             'model': model.state_dict(),
             'best_loss': best_loss,
             'optimizer': optimizer.state_dict(),
             'param': param
-        }, os.path.join(yml_config["train"]["modelSavePath"], param.model_save_path))
+        }, mid_path)
+        shutil.copy(mid_path, target_path)
 
         with open(yml_config['train']['flagPath'], 'r', encoding='utf-8') as file:
             yml_flag = yaml.safe_load(file)
-            if yml_flag['flag'] == '1':
+            if yml_flag['flag'] == 1:
                 return
 
         epoch = epoch + 1
 
 
-
-
 def train_net_C(param: ThisTrainParam):
-
     train_thread = Thread(target=train_net, args={param})
     train_thread.start()
     train_thread.join()

@@ -70,14 +70,13 @@ if __name__ == '__main__':
     # print(test_dataset.__len__())
     test_dataset.__getitem__(0)
     # 保存测试集和训练集到文件
-    # trds = open('train_dataset', 'wb')
-    # pickle.dump(train_dataset, trds, -1)
-    # logging.info("训练集数量",train_dataset.__len__())
-    # trds.close()
-    #
-    # tds = open('test_dataset', 'wb')
-    # pickle.dump(test_dataset, tds, -1)
-    # logging.info("测试集数量",test_dataset.__len__())
+    trds = open(os.path.join(config.yml_config['general']['baseDir'], 'train_dataset'), 'wb')
+    pickle.dump(train_dataset, trds, -1)
+    logging.info("训练集数量",train_dataset.__len__())
+    trds.close()
 
-    # tds.close()
+    tds = open(os.path.join(config.yml_config['general']['baseDir'], 'test_dataset'), 'wb')
+    pickle.dump(test_dataset, tds, -1)
+    logging.info("测试集数量",test_dataset.__len__())
+    tds.close()
 

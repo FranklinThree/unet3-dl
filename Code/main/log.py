@@ -9,8 +9,7 @@ def init():
     date_string = now.strftime("%Y-%m-%d")
     # config = None
 
-    base_dir = yml_config["general"]["baseDir"]
-    log_dir = os.path.join(base_dir, '../../logs')
+    log_dir = yml_config['general']['logDir']
     if not os.path.exists(log_dir):
         os.makedirs(log_dir)
     file_path = os.path.join(log_dir, date_string + '_' + str(yml_config['train']['params']['index']) + '.log')
