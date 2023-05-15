@@ -1,0 +1,62 @@
+目录 E:\Programming\python\pytorch\Unet3+\resource_1 的树状图结构:
+|--- Normal-002
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal002-DTI.mha
+|--- MRA
+|   |--- Normal002-MRA.mha
+|--- T1-Flash
+|   |--- Normal002-T1-Flash.mha
+|--- T2
+|   |--- Normal002-T2.mha
+|--- Normal-003
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal003-DTI.mha
+|--- MRA
+|   |--- Normal003-MRA.mha
+|--- T1-Flash
+|   |--- Normal003-T1-Flash.mha
+|--- T2
+|   |--- Normal003-T2.mha
+|--- Normal-004
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal004-DTI.mha
+|--- MRA
+|   |--- Normal004-MRA.mha
+|--- T1-Flash
+|   |--- Normal004-T1-Flash.mha
+|--- T2
+|   |--- Normal004-T2.mha
+|--- Normal-006
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal006-DTI.mha
+|--- MRA
+|   |--- Normal006-MRA.mha
+|--- T1-Flash
+|   |--- Normal006-T1-Flash.mha
+|--- T2
+|   |--- Normal006-T2.mha
+|--- Normal-008
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal008-DTI.mha
+|--- MRA
+|   |--- Normal008-MRA.mha
+|--- T1-Flash
+|   |--- Normal008-T1-Flash.mha
+|--- T2
+|   |--- Normal008-T2.mha
+。。。

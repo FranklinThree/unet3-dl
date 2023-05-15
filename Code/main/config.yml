@@ -1,0 +1,28 @@
+general:
+  baseDir: E:\Programming\python\pytorch\Unet3+\Code\main
+  dataset:
+    channel:
+      image: 1
+      label: 1
+    links:
+    - https://github.com/Zhao-BJ/Brain_3D_Vessel_Datasets
+    - https://public.kitware.com/Wiki/TubeTK/Data
+    name: Brain_MR_Angiography
+    shape:
+      x: 448
+      y: 448
+    type: image
+  model: unet3+
+  name: UNet3+ FOR UMR_dataset
+  title: "\u57FA\u4E8Eunet3+\u7684\u5FC3\u8111\u8840\u7BA1\u5206\u5272\u9879\u76EE"
+test:
+  datasetPath: E:\Programming\python\pytorch\Unet3+\Datasets\Brain_MR_Angiography\TubeTK\test
+  resultBaseDir: E:\Programming\python\pytorch\Unet3+\result
+train:
+  datasetPath: E:\Programming\python\pytorch\Unet3+\Datasets\Brain_MR_Angiography\TubeTK\train
+  flagPath: E:\Programming\python\pytorch\Unet3+\Code\main\flag.yml
+  modelSavePath: E:\Programming\python\pytorch\Unet3+\TrainedModels
+  params:
+    index: 10020
+    path: train-plan.csv
+    type: csv

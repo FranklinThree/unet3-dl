@@ -1,0 +1,1219 @@
+目录 C:\Users\22946\Downloads\RES 的树状图结构: 
+|--- Administration
+|--- Adjunct information
+|   |--- NormalDatabase2.pdf
+|--- Art
+|   |--- brain1.jpg
+|   |--- brain2.jpg
+|   |--- brain3.jpg
+|   |--- dti.jpg
+|--- DICOM Headers
+|   |--- dicom_header_DTI.txt
+|   |--- dicom_header_MRA.txt
+|   |--- dicom_header_T1_flash.txt
+|   |--- dicom_header_T1_mprage.txt
+|   |--- dicom_header_T2_tra.txt
+|--- Normal-001
+|--- DTI
+|   |--- Normal001-DTI.mha
+|--- MRA
+|   |--- Normal001-MRA.mha
+|--- T1-Flash
+|   |--- Normal001-T1-Flash.mha
+|--- T2
+|   |--- Normal001-T2.mha
+|--- Normal-002
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal002-DTI.mha
+|--- MRA
+|   |--- Normal002-MRA.mha
+|--- T1-Flash
+|   |--- Normal002-T1-Flash.mha
+|--- T2
+|   |--- Normal002-T2.mha
+|--- Normal-003
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal003-DTI.mha
+|--- MRA
+|   |--- Normal003-MRA.mha
+|--- T1-Flash
+|   |--- Normal003-T1-Flash.mha
+|--- T2
+|   |--- Normal003-T2.mha
+|--- Normal-004
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal004-DTI.mha
+|--- MRA
+|   |--- Normal004-MRA.mha
+|--- T1-Flash
+|   |--- Normal004-T1-Flash.mha
+|--- T2
+|   |--- Normal004-T2.mha
+|--- Normal-005
+|--- DTI
+|   |--- Normal005-DTI.mha
+|--- MRA
+|   |--- Normal005-MRA.mha
+|--- T1-Flash
+|   |--- Normal005-T1-Flash.mha
+|--- T2
+|   |--- Normal005-T2.mha
+|--- Normal-006
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal006-DTI.mha
+|--- MRA
+|   |--- Normal006-MRA.mha
+|--- T1-Flash
+|   |--- Normal006-T1-Flash.mha
+|--- T2
+|   |--- Normal006-T2.mha
+|--- Normal-007
+|--- DTI
+|   |--- Normal007-DTI.mha
+|--- MRA
+|   |--- Normal007-MRA.mha
+|--- T1-Flash
+|   |--- Normal007-T1-Flash.mha
+|--- T2
+|   |--- Normal007-T2.mha
+|--- Normal-008
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal008-DTI.mha
+|--- MRA
+|   |--- Normal008-MRA.mha
+|--- T1-Flash
+|   |--- Normal008-T1-Flash.mha
+|--- T2
+|   |--- Normal008-T2.mha
+|--- Normal-009
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal009-DTI.mha
+|--- MRA
+|   |--- Normal009-MRA.mha
+|--- T1-Flash
+|   |--- Normal009-T1-Flash.mha
+|--- T2
+|   |--- Normal009-T2.mha
+|--- Normal-010
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal010-DTI.mha
+|--- MRA
+|   |--- Normal010-MRA.mha
+|--- T1-Flash
+|   |--- Normal010-T1-Flash.mha
+|--- T2
+|   |--- Normal010-T2.mha
+|--- Normal-011
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal011-DTI.mha
+|--- MRA
+|   |--- Normal011-MRA.mha
+|--- T1-Flash
+|   |--- Normal011-T1-Flash.mha
+|--- T2
+|   |--- Normal011-T2.mha
+|--- Normal-012
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal012-DTI.mha
+|--- MRA
+|   |--- Normal012-MRA.mha
+|--- T1-Flash
+|   |--- Normal012-T1-Flash.mha
+|--- T2
+|   |--- Normal012-T2.mha
+|--- Normal-013
+|--- DTI
+|   |--- Normal013-DTI.mha
+|--- MRA
+|   |--- Normal013-MRA.mha
+|--- T1-Flash
+|   |--- Normal013-T1-Flash.mha
+|--- T2
+|   |--- Normal013-T2.mha
+|--- Normal-014
+|--- DTI
+|   |--- Normal014-DTI.mha
+|--- MRA
+|   |--- Normal014-MRA.mha
+|--- T1-Flash
+|   |--- Normal014-T1-Flash.mha
+|--- T2
+|   |--- Normal014-T2.mha
+|--- Normal-015
+|--- DTI
+|   |--- Normal015-DTI.mha
+|--- MRA
+|   |--- Normal015-MRA.mha
+|--- T1-Flash
+|   |--- Normal015-T1-Flash.mha
+|--- T2
+|   |--- Normal015-T2.mha
+|--- Normal-016
+|--- MRA
+|   |--- Normal016-MRA.mha
+|--- T1-Flash
+|   |--- Normal016-T1-Flash.mha
+|--- Normal-017
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal017-DTI.mha
+|--- MRA
+|   |--- Normal017-MRA.mha
+|--- T1-Flash
+|   |--- Normal017-T1-Flash.mha
+|--- T2
+|   |--- Normal017-T2.mha
+|--- Normal-018
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal018-DTI.mha
+|--- MRA
+|   |--- Normal018-MRA.mha
+|--- T1-Flash
+|   |--- Normal018-T1-Flash.mha
+|--- T2
+|   |--- Normal018-T2.mha
+|--- Normal-019
+|--- DTI
+|   |--- Normal019-DTI.mha
+|--- MRA
+|   |--- Normal019-MRA.mha
+|--- T1-Flash
+|   |--- Normal019-T1-Flash.mha
+|--- T2
+|   |--- Normal019-T2.mha
+|--- Normal-020
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal020-DTI.mha
+|--- MRA
+|   |--- Normal020-MRA.mha
+|--- T1-Flash
+|   |--- Normal020-T1-Flash.mha
+|--- T2
+|   |--- Normal020-T2.mha
+|--- Normal-021
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal021-DTI.mha
+|--- MRA
+|   |--- Normal021-MRA.mha
+|--- T1-Flash
+|   |--- Normal021-T1-Flash.mha
+|--- T2
+|   |--- Normal021-T2.mha
+|--- Normal-022
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal022-DTI.mha
+|--- MRA
+|   |--- Normal022-MRA.mha
+|--- T1-Flash
+|   |--- Normal022-T1-Flash.mha
+|--- T2
+|   |--- Normal022-T2.mha
+|--- Normal-023
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal023-DTI.mha
+|--- MRA
+|   |--- Normal023-MRA.mha
+|--- T1-Flash
+|   |--- Normal023-T1-Flash.mha
+|--- T2
+|   |--- Normal023-T2.mha
+|--- Normal-024
+|--- DTI
+|   |--- Normal024-DTI.mha
+|--- MRA
+|   |--- Normal024-MRA.mha
+|--- T1-Flash
+|   |--- Normal024-T1-Flash.mha
+|--- T2
+|   |--- Normal024-T2.mha
+|--- Normal-025
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal025-DTI.mha
+|--- MRA
+|   |--- Normal025-MRA.mha
+|--- T1-Flash
+|   |--- Normal025-T1-Flash.mha
+|--- T2
+|   |--- Normal025-T2.mha
+|--- Normal-026
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal026-DTI.mha
+|--- MRA
+|   |--- Normal026-MRA.mha
+|--- T1-Flash
+|   |--- Normal026-T1-Flash.mha
+|--- T2
+|   |--- Normal026-T2.mha
+|--- Normal-027
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal027-DTI.mha
+|--- MRA
+|   |--- Normal027-MRA.mha
+|--- T1-Flash
+|   |--- Normal027-T1-Flash.mha
+|--- T2
+|   |--- Normal027-T2.mha
+|--- Normal-028
+|--- DTI
+|   |--- Normal028-DTI.mha
+|--- MRA
+|   |--- Normal028-MRA.mha
+|--- T1-Flash
+|   |--- Normal028-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal028-T1-MPRage.mha
+|--- T2
+|   |--- Normal028-T2.mha
+|--- Normal-029
+|--- DTI
+|   |--- Normal029-DTI.mha
+|--- MRA
+|   |--- Normal029-MRA.mha
+|--- T1-Flash
+|   |--- Normal029-T1-Flash.mha
+|--- T2
+|   |--- Normal029-T2.mha
+|--- Normal-030
+|--- DTI
+|   |--- Normal030-DTI.mha
+|--- MRA
+|   |--- Normal030-MRA.mha
+|--- T1-Flash
+|   |--- Normal030-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal030-T1-MPRage.mha
+|--- T2
+|   |--- Normal030-T2.mha
+|--- Normal-031
+|--- DTI
+|   |--- Normal031-DTI.mha
+|--- MRA
+|   |--- Normal031-MRA.mha
+|--- T1-Flash
+|   |--- Normal031-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal031-T1-MPRage.mha
+|--- T2
+|   |--- Normal031-T2.mha
+|--- Normal-032
+|--- DTI
+|   |--- Normal032-DTI.mha
+|--- MRA
+|   |--- Normal032-MRA.mha
+|--- T1-Flash
+|   |--- Normal032-T1-Flash.mha
+|--- T2
+|   |--- Normal032-T2.mha
+|--- Normal-033
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal033-DTI.mha
+|--- MPRage
+|   |--- Normal033-MPRage.mha
+|--- MRA
+|   |--- Normal033-MRA.mha
+|--- T1-Flash
+|   |--- Normal033-T1-Flash.mha
+|--- T2
+|   |--- Normal033-T2.mha
+|--- Normal-034
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal034-DTI.mha
+|--- MRA
+|   |--- Normal034-MRA.mha
+|--- T1-Flash
+|   |--- Normal034-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal034-T1-MPRage.mha
+|--- T2
+|   |--- Normal034-T2.mha
+|--- Normal-035
+|--- DTI
+|   |--- Normal035-DTI.mha
+|--- MRA
+|   |--- Normal035-MRA.mha
+|--- T1-Flash
+|   |--- Normal035-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal035-T1-MPRage.mha
+|--- T2
+|   |--- Normal035-T2.mha
+|--- Normal-036
+|--- DTI
+|   |--- Normal036-DTI.mha
+|--- MRA
+|   |--- Normal036-MRA.mha
+|--- T1-Flash
+|   |--- Normal036-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal036-T1-MPRage.mha
+|--- T2
+|   |--- Normal036-T2.mha
+|--- Normal-037
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal037-DTI.mha
+|--- MRA
+|   |--- Normal037-MRA.mha
+|--- T1-Flash
+|   |--- Normal037-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal037-T1-MPRage.mha
+|--- T2
+|   |--- Normal037-T2.mha
+|--- Normal-038
+|--- DTI
+|   |--- Normal038-DTI.mha
+|--- MPRage
+|   |--- Normal038-MPRage.mha
+|--- MRA
+|   |--- Normal038-MRA.mha
+|--- T1-Flash
+|   |--- Normal038-T1-Flash.mha
+|--- T2
+|   |--- Normal038-T2.mha
+|--- Normal-039
+|--- DTI
+|   |--- Normal039-DTI.mha
+|--- MRA
+|   |--- Normal039-MRA.mha
+|--- T1-Flash
+|   |--- Normal039-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal039-T1-MPRage.mha
+|--- T2
+|   |--- Normal039-T2.mha
+|--- Normal-040
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal040-DTI.mha
+|--- MRA
+|   |--- Normal040-MRA.mha
+|--- T1-Flash
+|   |--- Normal040-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal040-T1-MPRage.mha
+|--- T2
+|   |--- Normal040-T2.mha
+|--- Normal-041
+|--- DTI
+|   |--- Normal041-DTI.mha
+|--- MRA
+|   |--- Normal041-MRA.mha
+|--- T1-Flash
+|   |--- Normal041-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal041-T1-MPRage.mha
+|--- T2
+|   |--- Normal041-T2.mha
+|--- Normal-042
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal042-DTI.mha
+|--- MRA
+|   |--- Normal042-MRA.mha
+|--- T1-Flash
+|   |--- Normal042-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal042-T1-MPRage.mha
+|--- T2
+|   |--- Normal042-T2.mha
+|--- Normal-043
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal043-DTI.mha
+|--- MRA
+|   |--- Normal043-MRA.mha
+|--- T1-Flash
+|   |--- Normal043-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal043-T1-MPRage.mha
+|--- T2
+|   |--- Normal043-T2.mha
+|--- Normal-044
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal044-DTI.mha
+|--- MRA
+|   |--- Normal044-MRA.mha
+|--- T1-Flash
+|   |--- Normal044-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal044-T1-MPRage.mha
+|--- T2
+|   |--- Normal044-T2.mha
+|--- Normal-045
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal045-DTI.mha
+|--- MRA
+|   |--- Normal045-MRA.mha
+|--- T1-Flash
+|   |--- Normal045-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal045-T1-MPRage.mha
+|--- T2
+|   |--- Normal045-T2.mha
+|--- Normal-046
+|--- DTI
+|   |--- Normal046-DTI.mha
+|--- MRA
+|   |--- Normal046-MRA.mha
+|--- T1-Flash
+|   |--- Normal046-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal046-T1-MPRage.mha
+|--- T2
+|   |--- Normal046-T2.mha
+|--- Normal-047
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal047-DTI.mha
+|--- MRA
+|   |--- Normal047-MRA.mha
+|--- T1-Flash
+|   |--- Normal047-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal047-T1-MPRage.mha
+|--- T2
+|   |--- Normal047-T2.mha
+|--- Normal-048
+|--- DTI
+|   |--- Normal048-DTI.mha
+|--- MRA
+|   |--- Normal048-MRA.mha
+|--- T1-Flash
+|   |--- Normal048-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal048-T1-MPRage.mha
+|--- T2
+|   |--- Normal048-T2.mha
+|--- Normal-049
+|--- DTI
+|   |--- Normal049-DTI.mha
+|--- MRA
+|   |--- Normal049-MRA.mha
+|--- T1-Flash
+|   |--- Normal049-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal049-T1-MPRage.mha
+|--- T2
+|   |--- Normal049-T2.mha
+|--- Normal-050
+|--- DTI
+|   |--- Normal050-DTI.mha
+|--- MRA
+|   |--- Normal050-MRA.mha
+|--- T1-Flash
+|   |--- Normal050-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal050-T1-MPRage.mha
+|--- T2
+|   |--- Normal050-T2.mha
+|--- Normal-051
+|--- DTI
+|   |--- Normal051-DTI.mha
+|--- MRA
+|   |--- Normal051-MRA.mha
+|--- T1-Flash
+|   |--- Normal051-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal051-T1-MPRage.mha
+|--- T2
+|   |--- Normal051-T2.mha
+|--- Normal-052
+|--- DTI
+|   |--- Normal052-DTI.mha
+|--- MRA
+|   |--- Normal052-MRA.mha
+|--- T1-Flash
+|   |--- Normal052-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal052-T1-MPRage.mha
+|--- T2
+|   |--- Normal052-T2.mha
+|--- Normal-053
+|--- DTI
+|   |--- Normal053-DTI.mha
+|--- MRA
+|   |--- Normal053-MRA.mha
+|--- T1-Flash
+|   |--- Normal053-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal053-T1-MPRage.mha
+|--- T2
+|   |--- Normal053-T2.mha
+|--- Normal-054
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal054-DTI.mha
+|--- MRA
+|   |--- Normal054-MRA.mha
+|--- T1-Flash
+|   |--- Normal054-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal054-T1-MPRage.mha
+|--- T2
+|   |--- Normal054-T2.mha
+|--- Normal-055
+|--- DTI
+|   |--- Normal055-DTI.mha
+|--- MRA
+|   |--- Normal055-MRA.mha
+|--- T1-Flash
+|   |--- Normal055-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal055-T1-MPRage.mha
+|--- T2
+|   |--- Normal055-T2.mha
+|--- Normal-056
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal056-DTI.mha
+|--- MRA
+|   |--- Normal056-MRA.mha
+|--- T1-Flash
+|   |--- Normal056-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal056-T1-MPRage.mha
+|--- T2
+|   |--- Normal056-T2.mha
+|--- Normal-057
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal057-DTI.mha
+|--- MRA
+|   |--- Normal057-MRA.mha
+|--- T1-Flash
+|   |--- Normal057-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal057-T1-MPRage.mha
+|--- T2
+|   |--- Normal057-T2.mha
+|--- Normal-058
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal058-DTI.mha
+|--- MRA
+|   |--- Normal058-MRA.mha
+|--- T1-Flash
+|   |--- Normal058-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal058-T1-MPRage.mha
+|--- T2
+|   |--- Normal058-T2.mha
+|--- Normal-059
+|--- DTI
+|   |--- Normal059-DTI.mha
+|--- MRA
+|   |--- Normal059-MRA.mha
+|--- T1-Flash
+|   |--- Normal059-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal059-T1-MPRage.mha
+|--- T2
+|   |--- Normal059-T2.mha
+|--- Normal-060
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal060-DTI.mha
+|--- MRA
+|   |--- Normal060-MRA.mha
+|--- T1-Flash
+|   |--- Normal060-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal060-T1-MPRage.mha
+|--- T2
+|   |--- Normal060-T2.mha
+|--- Normal-061
+|--- DTI
+|   |--- Normal061-DTI.mha
+|--- MRA
+|   |--- Normal061-MRA.mha
+|--- T1-Flash
+|   |--- Normal061-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal061-T1-MPRage.mha
+|--- T2
+|   |--- Normal061-T2.mha
+|--- Normal-062
+|--- DTI
+|   |--- Normal062-DTI.mha
+|--- MRA
+|   |--- Normal062-MRA.mha
+|--- T1-Flash
+|   |--- Normal062-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal062-T1-MPRage.mha
+|--- T2
+|   |--- Normal062-T2.mha
+|--- Normal-063
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal063-DTI.mha
+|--- MRA
+|   |--- Normal063-MRA.mha
+|--- T1-Flash
+|   |--- Normal063-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal063-T1-MPRage.mha
+|--- T2
+|   |--- Normal063-T2.mha
+|--- Normal-064
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal064-DTI.mha
+|--- MRA
+|   |--- Normal064-MRA.mha
+|--- T1-Flash
+|   |--- Normal064-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal064-T1-MPRage.mha
+|--- T2
+|   |--- Normal064-T2.mha
+|--- Normal-065
+|--- DTI
+|   |--- Normal065-DTI.mha
+|--- MRA
+|   |--- Normal065-MRA.mha
+|--- T1-Flash
+|   |--- Normal065-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal065-T1-MPRage.mha
+|--- T2
+|   |--- Normal065-T2.mha
+|--- Normal-066
+|--- DTI
+|   |--- Normal066-DTI.mha
+|--- MRA
+|   |--- Normal066-MRA.mha
+|--- T1-Flash
+|   |--- Normal066-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal066-T1-MPRage.mha
+|--- T2
+|   |--- Normal066-T2.mha
+|--- Normal-067
+|--- DTI
+|   |--- Normal067-DTI.mha
+|--- MRA
+|   |--- Normal067-MRA.mha
+|--- T1-Flash
+|   |--- Normal067-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal067-T1-MPRage.mha
+|--- T2
+|   |--- Normal067-T2.mha
+|--- Normal-068
+|--- DTI
+|   |--- Normal068-DTI.mha
+|--- MRA
+|   |--- Normal068-MRA.mha
+|--- T1-Flash
+|   |--- Normal068-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal068-T1-MPRage.mha
+|--- T2
+|   |--- Normal068-T2.mha
+|--- Normal-069
+|--- MRA
+|   |--- Normal069-MRA.mha
+|--- T1-Flash
+|   |--- Normal069-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal069-T1-MPRage.mha
+|--- T2
+|   |--- Normal069-T2.mha
+|--- Normal-070
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal070-DTI.mha
+|--- MRA
+|   |--- Normal070-MRA.mha
+|--- T1-Flash
+|   |--- Normal070-T1-Flash.mha
+|--- T2
+|   |--- Normal070-T2.mha
+|--- Normal-071
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal071-DTI.mha
+|--- MRA
+|   |--- Normal071-MRA.mha
+|--- T1-Flash
+|   |--- Normal071-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal071-T1-MPRage.mha
+|--- T2
+|   |--- Normal071-T2.mha
+|--- Normal-072
+|--- DTI
+|   |--- Normal072-DTI.mha
+|--- MRA
+|   |--- Normal072-MRA.mha
+|--- T1-Flash
+|   |--- Normal072-T1-Flash.mha
+|--- T2
+|   |--- Normal072-T2.mha
+|--- Normal-073
+|--- DTI
+|   |--- Normal073-DTI.mha
+|--- MRA
+|   |--- Normal073-MRA.mha
+|--- T1-Flash
+|   |--- Normal073-T1-Flash.mha
+|--- T2
+|   |--- Normal073-T2.mha
+|--- Normal-074
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal074-DTI.mha
+|--- MRA
+|   |--- Normal074-MRA.mha
+|--- T1-Flash
+|   |--- Normal074-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal074-T1-MPRage.mha
+|--- T2
+|   |--- Normal074-T2.mha
+|--- Normal-075
+|--- DTI
+|   |--- Normal075-DTI.mha
+|--- MRA
+|   |--- Normal075-MRA.mha
+|--- T1-MPRage
+|   |--- Normal075-T1-MPRage.mha
+|--- T2
+|   |--- Normal075-T2.mha
+|--- Normal-076
+|--- DTI
+|   |--- Normal076-DTI.mha
+|--- MRA
+|   |--- Normal076-MRA.mha
+|--- T1-MPRage
+|   |--- Normal076-T1-MPRage.mha
+|--- T2
+|   |--- Normal076-T2.mha
+|--- Normal-077
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal077-DTI.mha
+|--- MRA
+|   |--- Normal077-MRA.mha
+|--- T1-Flash
+|   |--- Normal077-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal077-T1-MPRage.mha
+|--- T2
+|   |--- Normal077-T2.mha
+|--- Normal-078
+|--- DTI
+|   |--- Normal078-DTI.mha
+|--- MRA
+|   |--- Normal078-MRA.mha
+|--- T1-MPRage
+|   |--- Normal078-T1-MPRage.mha
+|--- Normal-079
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal079-DTI.mha
+|--- MRA
+|   |--- Normal079-MRA.mha
+|--- T1-Flash
+|   |--- Normal079-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal079-T1-MPRage.mha
+|--- T2
+|   |--- Normal079-T2.mha
+|--- Normal-080
+|--- DTI
+|   |--- Normal080-DTI.mha
+|--- MRA
+|   |--- Normal080-MRA.mha
+|--- T1-Flash
+|   |--- Normal080-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal080-T1-MPRage.mha
+|--- T2
+|   |--- Normal080-T2.mha
+|--- Normal-081
+|--- DTI
+|   |--- Normal081-DTI.mha
+|--- MRA
+|   |--- Normal081-MRA.mha
+|--- T!-Flash
+|   |--- Normal081-T!-Flash.mha
+|--- T1-MPRage
+|   |--- Normal081-T1-MPRage.mha
+|--- T2
+|   |--- Normal081-T2.mha
+|--- Normal-082
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal082-DTI.mha
+|--- MRA
+|   |--- Normal082-MRA.mha
+|--- T1-Flash
+|   |--- Normal082-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal082-T1-MPRage.mha
+|--- T2
+|   |--- Normal082-T2.mha
+|--- Normal-083
+|--- DTI
+|   |--- Normal083-DTI.mha
+|--- MRA
+|   |--- Normal083-MRA.mha
+|--- T1-MPRage
+|   |--- Normal083-T1-MPRage.mha
+|--- T2
+|   |--- Normal083-T2.mha
+|--- Normal-084
+|--- DTI
+|   |--- Normal084-DTI.mha
+|--- MRA
+|   |--- Normal084-MRA.mha
+|--- T1-MPRage
+|   |--- Normal084-T1-MPRage.mha
+|--- T2
+|   |--- Normal084-T2.mha
+|--- Normal-085
+|--- DTI
+|   |--- Normal085-DTI.mha
+|--- MRA
+|   |--- Normal085-MRA.mha
+|--- T1-Flash
+|   |--- Normal085-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal085-T1-MPRage.mha
+|--- T2
+|   |--- Normal085-T2.mha
+|--- Normal-086
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal086-DTI.mha
+|--- MRA
+|   |--- Normal086-MRA.mha
+|--- T1-Flash
+|   |--- Normal086-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal086-T1-MPRage.mha
+|--- T2
+|   |--- Normal086-T2.mha
+|--- Normal-087
+|--- MRA
+|   |--- Normal087-MRA.mha
+|--- T1-Flash
+|   |--- Normal087-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal087-T1-MPRage.mha
+|--- T2
+|   |--- Normal087-T2.mha
+|--- Normal-088
+|--- AuxillaryData
+|   |--- SkullStripped-T1-Flash.mha
+|   |--- VascularNetwork.tre
+|--- DTI
+|   |--- Normal088-DTI.mha
+|--- MRA
+|   |--- Normal088-MRA.mha
+|--- T1-Flash
+|   |--- Normal088-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal088-T1-MPRage.mha
+|--- T2
+|   |--- Normal088-T2.mha
+|--- Normal-089
+|--- DTI
+|   |--- Normal089-DTI.mha
+|--- MRA
+|   |--- Normal089-MRA.mha
+|--- T1-Flash
+|   |--- Normal089-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal089-T1-MPRage.mha
+|--- T2
+|   |--- Normal089-T2.mha
+|--- Normal-090
+|--- DTI
+|   |--- Normal090-DTI.mha
+|--- MRA
+|   |--- Normal090-MRA.mha
+|--- T1-Flash
+|   |--- Normal090-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal090-T1-MPRage.mha
+|--- T2
+|   |--- Normal090-T2.mha
+|--- Normal-091
+|--- MRA
+|   |--- Normal091-MRA.mha
+|--- T1-Flash
+|   |--- Normal091-T1-Flash.mha
+|--- T2
+|   |--- Normal091-T2.mha
+|--- Normal-092
+|--- DTI
+|   |--- Normal092-DTI.mha
+|--- MRA
+|   |--- Normal092-MRA.mha
+|--- T1-Flash
+|   |--- Normal092-T1-Flash.mha
+|--- T2
+|   |--- Normal092-T2.mha
+|--- Normal-093
+|--- DTI
+|   |--- Normal093-DTI.mha
+|--- MRA
+|   |--- Normal093-MRA.mha
+|--- T1-Flash
+|   |--- Normal093-T1-Flash.mha
+|--- T2
+|   |--- Normal093-T2.mha
+|--- Normal-094
+|--- DTI
+|   |--- Normal094-DTI.mha
+|--- MRA
+|   |--- Normal094-MRA.mha
+|--- T1-Flash
+|   |--- Normal094-T1-Flash.mha
+|--- T1-MPRage
+|   |--- Normal094-T1-MPRage.mha
+|--- T2
+|   |--- Normal094-T2.mha
+|--- Normal-095
+|--- DTI
+|   |--- Normal095-DTI.mha
+|--- MRA
+|   |--- Normal095-MRA.mha
+|--- T1-MPRage
+|   |--- Normal095-T1-MPRage.mha
+|--- T2
+|   |--- Normal095-T2.mha
+|--- Normal-096
+|--- DTI
+|   |--- Normal096-DTI.mha
+|--- MRA
+|   |--- Normal096-MRA.mha
+|--- T1-MPRage
+|   |--- Normal096-T1-MPRage.mha
+|--- T2
+|   |--- Normal096-T2.mha
+|--- Normal-097
+|--- DTI
+|   |--- Normal097-DTI.mha
+|--- MRA
+|   |--- Normal097-MRA.mha
+|--- T1-MPRage
+|   |--- Normal097-T1-MPRage.mha
+|--- T2
+|   |--- Normal097-T2.mha
+|--- Normal-098
+|--- DTI
+|   |--- Normal098-DTI.mha
+|--- MRA
+|   |--- Normal098-MRA.mha
+|--- T1-MPRage
+|   |--- Normal098-T1-MPRage.mha
+|--- T2
+|   |--- Normal098-T2.mha
+|--- Normal-099
+|--- DTI
+|   |--- Normal099-DTI.mha
+|--- MRA
+|   |--- Normal099-MRA.mha
+|--- T1-MPRage
+|   |--- Normal099-T1-MPRage.mha
+|--- T2
+|   |--- Normal099-T2.mha
+|--- Normal-100
+|--- DTI
+|   |--- Normal100-DTI.mha
+|--- MRA
+|   |--- Normal100-MRA.mha
+|--- T1-MPRage
+|   |--- Normal100-T1-MPRage.mha
+|--- T2
+|   |--- Normal100-T2.mha
+|--- Normal-101
+|--- MRA
+|   |--- Normal101-MRA.mha
+|--- T1-MPRage
+|   |--- Normal101-T1-MPRage.mha
+|--- T2
+|   |--- Normal101-T2.mha
+|--- Normal-102
+|--- DTI
+|   |--- Normal102-DTI.mha
+|--- MRA
+|   |--- Normal102-MRA.mha
+|--- T1-MPRage
+|   |--- Normal102-T1-MPRage.mha
+|--- T2
+|   |--- Normal102-T2.mha
+|--- Normal-103
+|--- DTI
+|   |--- Normal103-DTI.mha
+|--- MRA
+|   |--- Normal103-MRA.mha
+|--- T1-MPRage
+|   |--- Normal103-T1-MPRage.mha
+|--- T2
+|   |--- Normal103-T2.mha
+|--- Normal-104
+|--- DTI
+|   |--- Normal104-DTI.mha
+|--- MRA
+|   |--- Normal104-MRA.mha
+|--- T1-MPRage
+|   |--- Normal104-T1-MPRage.mha
+|--- T2
+|   |--- Normal104-T2.mha
+|--- Normal-105
+|--- DTI
+|   |--- Normal105-DTI.mha
+|--- MRA
+|   |--- Normal105-MRA.mha
+|--- T1-MPRage
+|   |--- Normal105-T1-MPRage.mha
+|--- T2
+|   |--- Normal105-T2.mha
+|--- Normal-106
+|--- MRA
+|   |--- Normal106-MRA.mha
+|--- T1-MPRage
+|   |--- Normal106-T1-MPRage.mha
+|--- T2
+|   |--- Normal106-T2.mha
+|--- Normal-107
+|--- DTI
+|   |--- Normal107-DTI.mha
+|--- MRA
+|   |--- Normal107-MRA.mha
+|--- T1-MPRage
+|   |--- Normal107-T1-MPRage.mha
+|--- T2
+|   |--- Normal107-T2.mha
+|--- Normal-108
+|--- DTI
+|   |--- Normal108-DTI.mha
+|--- MRA
+|   |--- Normal108-MRA.mha
+|--- T1-MPRage
+|   |--- Normal108-T1-MPRage.mha
+|--- T2
+|   |--- Normal108-T2.mha
+|--- Normal-109
+|--- DTI
+|   |--- Normal109-DTI.mha
+|--- MRA
+|   |--- Normal109-MRA.mha
+|--- T1-MPRage
+|   |--- Normal109-T1-MPRage.mha
+|--- T2
+|   |--- Normal109-T2.mha
+|--- Phantoms
+|--- BrainWeb-phantom.mha
+|--- SPL-phantom-2012-labels.nrrd
+|--- SPL-phantom-2012-noSkull.mha
+|--- SPL-phantom-2012.mha

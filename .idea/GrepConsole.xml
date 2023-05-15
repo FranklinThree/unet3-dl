@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GrepConsole">
+    <option name="tailHistory">
+      <TailHistory>
+        <option name="items">
+          <set>
+            <TailItem>
+              <option name="path" value="$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.1/log/idea.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_69.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_70.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_71.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_72.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_80.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_81.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-27_82.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-28_87.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-29_88.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-30_91.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-04-30_92.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-10_10009.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-10_10010.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-10_10013.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-10_10016.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-10_10017.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-10_10018.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/Code/main/logs/2023-05-11_10019.log" />
+            </TailItem>
+          </set>
+        </option>
+      </TailHistory>
+    </option>
+  </component>
+</project>
